@@ -1,5 +1,5 @@
 <template>
-  <div>登录页面</div>
+  <div class="text-3xl text-red-500">登录页面</div>
 </template>
 
 <script lang="ts">
